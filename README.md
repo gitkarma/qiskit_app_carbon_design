@@ -5,7 +5,7 @@ The goal of this project consist to show a different approach to quantum computi
 We want add to the  [composer][], [jupyter notebook][] a [web app][] that make use of some algorithm in order to realize a visual and interactive application.
 [composer]:https://quantumexperience.ng.bluemix.net/qx/editor
 [jupyter notebook]:https://nbviewer.jupyter.org/github/Qiskit/qiskit-tutorial/blob/master/index.ipynb#1.3-Qiskit-Aer
-[web app]: https://first-appq-ibmitaly.mybluemix.net/
+[web app]: https://quantum-suite.mybluemix.net/
 
 ## The architecture 
 
